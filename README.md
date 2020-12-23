@@ -1,1 +1,1 @@
-# word2vec_model
+# Word2Vec Model
