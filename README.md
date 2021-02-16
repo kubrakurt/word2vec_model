@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://github.com/kubrakurt/word2vec_model/blob/main/Medium.png"/> </p>
 
-# [Medium]()
+# [Medium](https://kubrakurt.medium.com/python-ile-metin-%C3%B6n-i%CC%87%C5%9Fleme-wordcloud-word2vec-model-87b3e84abdfd)
 # *Python ile Metin Ön İşleme, WordCloud & Word2Vec Model*
 ## 1. Metin Ön İşleme
 ## 2. WordCloud
